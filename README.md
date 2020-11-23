@@ -3,11 +3,7 @@
 Final project for the Building AI course
 
 ## Summary
-
-Tool for Privacy Lawyers to check how their privacy statement compares to others out there. The AI would help to flag if the statement is missing legal requirements and help to draft it as user-friendly as possible (length, sentences, words used). 
-
-
-
+Tool for Privacy Lawyers to check how their privacy statement compares to others out there. The AI would help to flag if the statement is missing legal requirements and help to draft it as user-friendly as possible (length, sentences, words used).
 ## Background
 
 We all know that nobody reads the privacy statements, when they access a website for the first time. Or same pretty much applies to terms and conditions of online purchase.
