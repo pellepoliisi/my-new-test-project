@@ -32,4 +32,5 @@ There isn´t one fits for all. The software will not give the perfect output as 
 
 ## What in the future?
 
+First the plan is to start with only English and then continue to cover as many languages as possible. Perhaps the use of Facebook´s or Google´s language algorithms here is useful.
 It could be interesting to wide the model to handle also the terms and conditions of online shopping (and why not others). They are also notoriously never opened by people, just click the box "Accept".
