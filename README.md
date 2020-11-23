@@ -33,3 +33,7 @@ To open the idea, is that the AI methods would classify each word in the Privacy
 The project will not solve missuse of personal data. 
 The challenge will be creating a model that understands "legal quality" as user-friendly but one that fullfills legal requirements for privacy statements. 
 There isn´t one fits for all. The software will not give the perfect output as it will not now the purposes of the entity behind the website. A privacy statement is connected to the data that is collected and for what purpose. Different actors may have similar reasons and targets to collect data but also completely opposite even in the "same industry area". 
+
+## What in the future?
+
+It could be interesting to wide the model to handle also the terms and conditions of online shopping (and why not others). They are also notoriously never opened by people, just click the box "Accept".
